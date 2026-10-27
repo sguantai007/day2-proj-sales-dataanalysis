@@ -1,0 +1,14 @@
+
+# Virtual environment
+day2venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# IDE settings
+.vscode/
